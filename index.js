@@ -1,4 +1,4 @@
-const token = "ODM0MTA2NjExMTI2NjMyNDQ4.YH8EUQ.RfJ-iZYTpXTUMnZZvLRkVAFr0iU" //le token de votre bot
+const token = "" //le token de votre bot
 const prefix = "?" //votre préfixe ([préfixe]help)
 const discordstatus = "Regarde le discord" //le statut de votre bot (par exemple : "salut!" qui donnera "joue à salut!") [note : ce statut changera de temps en tant avec un autre rappelant que Accio a fait ce programme ou avec votre discordstatus 2]
 const discordstatus2 = "Garry's Mod" //un deuxième statut pour votre bot [note : ce statut changera de temps en tant avec un autre rappelant que Accio a fait ce programme, ou avec votre discordstatus 1]
